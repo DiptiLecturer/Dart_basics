@@ -1,9 +1,9 @@
-void main() {
-  /* var bankAccount = BankAccount();
+/*void main() {
+  *//* var bankAccount = BankAccount();
  bankAccount.deposit(1000);
  bankAccount.showBalance();
  bankAccount.withdraw(500);
- bankAccount.showBalance();*/
+ bankAccount.showBalance();*//*
   var atm = Atm();
   atm.deposit(5000);
   atm.showBalance();
@@ -36,5 +36,5 @@ class Atm extends BankAccount {
 
   }
 }
-class BKash extends BankAccount {}
+class BKash extends BankAccount {}*/
 
